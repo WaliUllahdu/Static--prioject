@@ -1,0 +1,44 @@
+Web application Development (PHP)
+
+Date: 15-11-17
+Batch No: 72
+BITM first class
+Trainer Sir: Habib Rahman
+
+
+
+What is web?
+1989 Tims Berners-
+Connected all documents each other and access trough Inernet
+
+History
+>write document 
+>share everyone 
+>create problem 
+>update information in a moment
+
+
+Works web
+1.,clien who request 
+2. server there request process and show result
+
+
+Bitm.org> Called Domain
+
+search Google and wikipeadia
+
+
+Web
+Internet (US Army)
+Website(consist of many webpage
+Webpage( A website include many webpage
+
+Web applicatin
+            >FrontEnd (We can see website)
+  Three part
+                    >Structure &Content=HTML
+                    >Presentation=CSS
+                    >Behaviur=Java script (Relation with client and content)
+            >ServerSide
+            >Database
+
